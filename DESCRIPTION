@@ -1,0 +1,14 @@
+Package: rpkg
+Title: Play package for learning how to make R packages
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jonathan", "Werner", , "werner@cshl.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package does not do anything
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
